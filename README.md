@@ -1,2 +1,3 @@
-# medecal-hw4
-Machine Learning Decal @ CAL - FA20 // Assignment 4
+# Homework: Neural Networks
+
+transfer learning a Resnet-18 for Skin Cancer Classification
